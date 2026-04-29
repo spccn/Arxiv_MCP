@@ -35,6 +35,9 @@ pip install fastmcp pydantic arxiv
   }
 }
 ```
+## SKILL接入
+
+SKILL.md提供查询语句规则，为提升大模型查询能力，强烈建议配合SKILL.md使用
 
 ## MCP函数内容
 

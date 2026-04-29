@@ -13,7 +13,7 @@
 ## 安装依赖
 
 ```bash
-pip install fastmcp pydantic arxiv
+pip install mcp pydantic arxiv
 ```
 
 ## MCP接入配置（Opencode版）
